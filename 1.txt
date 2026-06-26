@@ -1,2 +1,79 @@
-12454585285296
-11 221  225 2 55 52 5 2
+                       DATA Engineering
+
+25/06/2026
+DAY 1 >> CLASS<< 
+
+SQL      > STRUCTED QUERY LANGUAGE, JUST LIKE PHYTON
+MY SQL> ONE OF THE DB TOOLS 
+
+WHY TO RELY ON THESE DB TOOLS?
+>Excel is only local
+>Excel can store only upto 10L Rows & 16384 Columns 
+>If You load more than 50,000 Rows, Excel will open tomorrow)
+                                                DBMS -Database management system 
+ RDMS								NRDMS
+It handles only structured data 			                    It handles only unstructured data
+(Rows & Columns)                                        TOOLS                                         ( Audio , video , text , images)
+ 
+SQL WORKBENCH							MANGO DB
+ORACLE DB							APACHE 
+MS SQL SERVER							AMAZON
+POSTGRE SQL 
+ 
+									
+     SQL COURSE 
+ (BASIC TO ADVACNE )
+AGENDA AT AGLANCE 
+1.INSTALLING MY SQL AND CREATING A DB
+2.INSERTING DATA 
+3.DQL AND DML OPERATIONS
+4.AGGREGATE FUNCTIONS & SUB QUERIES
+5.JOINS AND GROUPING 
+6.WINDOW FUNCTIONS & STORE PROCEDURES 
+
+BEFORE WE BEGIN…	
+“ Small Steps each day lead 
+To big results tomorrow.”
+
+26/06/2026
+DAY 2 >> CLASS<< 
+
+CHAPTER1
+1.INSTALLING MY SQL AND CREATING A DB (DATABASE)
+
+CREATE NEW TABLE & ROWS 
+
+STUDENTS
+STUDENT ID	FIRST NAME	LAST NAME 	BIRTHDATE 	GENDER
+1	JOHN	DOE	2000-05-15	MALE
+2	JANE	SMITH	2000-04-20	FEMALE
+3	MANI	KANDAN	2000-02-14	MALE
+
+COURSES
+COURSE ID 	COURSE NAME 	CREDITS
+1	MATHS	3
+2	SCIENCE	4
+3	SOCIAL	2
+
+ENROLLMENT
+ENROLLMENT ID 	STUDENT ID 	COURSE ID	ENROLLMENT DATE 
+1	1	1	2021-1-21
+2	2	2	2000-1-10
+3	2	3	1999-10-27
+
+
+ 
+
+IMPORT TERMINOLOGIES
+PRIMARY KEY : A unique identifier for each row in a table, ensuring that each row is distinct.
+FOREIGN KEY:  A column or set of columns in one table that refers to the primary key in another table , establishing a relationship between the two tables.
+
+
+
+
+
+
+
+
+
+
